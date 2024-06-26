@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582887112256",
+    "project_id": "composemultiplatform-5287f",
+    "storage_bucket": "composemultiplatform-5287f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582887112256:android:00db2e539e0792438969a5",
+        "android_client_info": {
+          "package_name": "za.co.compose.multiplatform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7FcXzUz4vSInpXiZRqSGtyZnfUJtJcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
